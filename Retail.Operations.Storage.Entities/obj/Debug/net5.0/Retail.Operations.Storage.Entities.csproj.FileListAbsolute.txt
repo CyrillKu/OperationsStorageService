@@ -1,0 +1,12 @@
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/bin/Debug/net5.0/Retail.Operations.Storage.Entities.deps.json
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/bin/Debug/net5.0/Retail.Operations.Storage.Entities.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/bin/Debug/net5.0/ref/Retail.Operations.Storage.Entities.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/bin/Debug/net5.0/Retail.Operations.Storage.Entities.pdb
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.csproj.AssemblyReference.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.AssemblyInfo.cs
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/ref/Retail.Operations.Storage.Entities.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/obj/Debug/net5.0/Retail.Operations.Storage.Entities.pdb

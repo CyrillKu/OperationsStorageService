@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7Ip25OBkgu5yiHJA8PbPY44sAqDFYxjQYlpeN+OGoJ5/Eve8lZkmgKiGcA0/0pjsXgtDArFQ9c4i0xCfng16A==",
+  "success": true,
+  "projectFilePath": "/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Entities/Retail.Operations.Storage.Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/linq2db/3.6.0/linq2db.3.6.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/linq2db.postgresql/3.6.0/linq2db.postgresql.3.6.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/npgsql/5.0.11/npgsql.5.0.11.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

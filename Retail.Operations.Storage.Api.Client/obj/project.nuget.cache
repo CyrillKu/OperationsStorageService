@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6LNIq7tSbEP7T8XANMSbLYDX78E7tYG5OBmOCACZUhwEGNMs7cywDqrAashIN3FF8R7tAMVe2h2m0qV7EPXMQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Client/Retail.Operations.Storage.Api.Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/restease/1.5.5/restease.1.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

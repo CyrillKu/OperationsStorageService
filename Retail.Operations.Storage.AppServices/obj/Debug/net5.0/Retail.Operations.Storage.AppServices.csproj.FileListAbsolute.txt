@@ -1,0 +1,16 @@
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.deps.json
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/ref/Retail.Operations.Storage.AppServices.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.pdb
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.Contracts.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.Entities.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.Contracts.pdb
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/bin/Debug/net5.0/Retail.Operations.Storage.Entities.pdb
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.csproj.AssemblyReference.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.AssemblyInfo.cs
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/ref/Retail.Operations.Storage.AppServices.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/obj/Debug/net5.0/Retail.Operations.Storage.AppServices.pdb

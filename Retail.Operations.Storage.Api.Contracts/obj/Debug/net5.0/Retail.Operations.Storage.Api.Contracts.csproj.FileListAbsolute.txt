@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/bin/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.deps.json
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/bin/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/bin/Debug/net5.0/ref/Retail.Operations.Storage.Api.Contracts.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/bin/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.pdb
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.csproj.AssemblyReference.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.AssemblyInfo.cs
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/ref/Retail.Operations.Storage.Api.Contracts.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/obj/Debug/net5.0/Retail.Operations.Storage.Api.Contracts.pdb
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.Contracts.dll
+/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.Api.Contracts/bin/Debug/net5.0/Retail.Operations.Storage.AppServices.Contracts.pdb

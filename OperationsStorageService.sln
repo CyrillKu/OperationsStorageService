@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Operations.Storage.Host", "Retail.Operations.Storage.Host\Retail.Operations.Storage.Host.csproj", "{FE74CE28-D5BF-448A-9F95-CB5737D74A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Operations.Storage.Api.Contracts", "Retail.Operations.Storage.Api.Contracts\Retail.Operations.Storage.Api.Contracts.csproj", "{F3FDAE0F-178D-4240-BFC5-759432FB9705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Operations.Storage.AppServices", "Retail.Operations.Storage.AppServices\Retail.Operations.Storage.AppServices.csproj", "{3C316B74-3992-4DA9-BC5B-E6008758F65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Operations.Storage.AppServices.Contracts", "Retail.Operations.Storage.AppServices.Contracts\Retail.Operations.Storage.AppServices.Contracts.csproj", "{AEA8F8C7-9912-4F1A-9E6C-622CE5A0EB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Operations.Storage.Api.Client", "Retail.Operations.Storage.Api.Client\Retail.Operations.Storage.Api.Client.csproj", "{6EC44F84-F562-4E03-A204-2D04E877A6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Operations.Storage.Entities", "Retail.Operations.Storage.Entities\Retail.Operations.Storage.Entities.csproj", "{CCE938FB-FE6B-4012-A105-F7607570F9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE74CE28-D5BF-448A-9F95-CB5737D74A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE74CE28-D5BF-448A-9F95-CB5737D74A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE74CE28-D5BF-448A-9F95-CB5737D74A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE74CE28-D5BF-448A-9F95-CB5737D74A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FDAE0F-178D-4240-BFC5-759432FB9705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FDAE0F-178D-4240-BFC5-759432FB9705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FDAE0F-178D-4240-BFC5-759432FB9705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FDAE0F-178D-4240-BFC5-759432FB9705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C316B74-3992-4DA9-BC5B-E6008758F65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C316B74-3992-4DA9-BC5B-E6008758F65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C316B74-3992-4DA9-BC5B-E6008758F65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C316B74-3992-4DA9-BC5B-E6008758F65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA8F8C7-9912-4F1A-9E6C-622CE5A0EB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA8F8C7-9912-4F1A-9E6C-622CE5A0EB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA8F8C7-9912-4F1A-9E6C-622CE5A0EB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA8F8C7-9912-4F1A-9E6C-622CE5A0EB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC44F84-F562-4E03-A204-2D04E877A6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC44F84-F562-4E03-A204-2D04E877A6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC44F84-F562-4E03-A204-2D04E877A6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC44F84-F562-4E03-A204-2D04E877A6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE938FB-FE6B-4012-A105-F7607570F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE938FB-FE6B-4012-A105-F7607570F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE938FB-FE6B-4012-A105-F7607570F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE938FB-FE6B-4012-A105-F7607570F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

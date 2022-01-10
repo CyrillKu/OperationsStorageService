@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "34DKKSdIRQ97fAppHXxz4UOqwVRDvqZ9ssY0e5jeAZmKWpsSZ9TS4EWFEBBVf+SoIYprkby6aetuI0M1EEGAug==",
+  "success": true,
+  "projectFilePath": "/Users/mac/RiderProjects/OperationsStorageService/Retail.Operations.Storage.AppServices/Retail.Operations.Storage.AppServices.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/linq2db/3.6.0/linq2db.3.6.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/linq2db.postgresql/3.6.0/linq2db.postgresql.3.6.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/npgsql/5.0.11/npgsql.5.0.11.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
